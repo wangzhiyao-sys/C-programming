@@ -1,0 +1,6 @@
+interface:
+  display_name: "WPS C++ 编码规范"
+  short_description: "按金山办公2026高校版规范编写、重构与检查C++代码"
+  default_prompt: "使用 $wps-cpp-standard，按《C++编码规范（2026高校版）》编写或修改 C++ 代码，并在交付前自审。"
+policy:
+  allow_implicit_invocation: true
